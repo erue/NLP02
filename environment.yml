@@ -9,7 +9,6 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - urllib
   - bs4
   - joblib
   - threadpoolctl
