@@ -3,7 +3,7 @@
 MeCabのサンプル
 
 ### 1回目: 自分用のJupyter環境を作る
-最初に1回だけ、この [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/ikfj/NLP02/HEAD) ボタンを押してください。
+最初に1回だけ、この [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/erue/NLP02/HEAD) ボタンを押してください。
 すると、あなた専用のJupyter環境が新しく作られます。
 作業を終えたら、編集したファイルを保存してブラウザを閉じます。ブラウザを閉じてもJupyter環境は失われません。
 > 注意: この [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/ikfj/NLP01/HEAD) ボタンを押すたびに、新たなJupyter環境が作られます。
