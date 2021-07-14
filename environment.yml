@@ -1,0 +1,20 @@
+channels:
+  - conda-forge
+dependencies:
+  - mecab-python3
+  - pip
+  - pip:
+    - unidic
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - urllib
+  - bs4
+  - joblib
+  - threadpoolctl
+  - scikit-learn
+  - openpyxl
+  - camelot-py
+  - r-base=3.6
+  - r-tidyverse
